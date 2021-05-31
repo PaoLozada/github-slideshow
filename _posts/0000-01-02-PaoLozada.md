@@ -1,7 +1,7 @@
-
 ---
 layout: slide
 title: "Bienvenidos a la 2a página!"
 ---
-Tu texto
+**Ahora quien podra *defenderme***
+---
 Hola este es mi primer intento
